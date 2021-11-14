@@ -1,5 +1,5 @@
 const $ = document.querySelector.bind(document);
-const $$ = document.querySelectorAll.bind(document);
+const $$ = document.querySelectorAll.bind(document);  
 const songName = $("header h2");
 const cdThumb = $(".cd-thumb");
 const audio = $("#audio");
